@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá! Me chamo Diego Leal 👋
 
-<!--
-**dtleal/dtleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dtleal/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias 
+
+ 
+  [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,django,c,cpp,java,mongodb,aws,gcp,kafka,docker,terraform)](https://skillicons.dev)
+
+## Estatísticas
+  
+  ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dtleal&show_icons=true&theme=onedark)
+  
+<br>
+
+Backend Software Engineer
