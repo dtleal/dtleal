@@ -8,9 +8,6 @@
  
   [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,django,c,cpp,java,mongodb,aws,gcp,kafka,docker,terraform)](https://skillicons.dev)
 
-## Estatísticas
-  
-  ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dtleal&show_icons=true&theme=onedark)
   
 <br>
 
